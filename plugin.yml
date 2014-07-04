@@ -1,0 +1,6 @@
+name: SubtleAFK
+main: com.teej107.subtleafk.SubtleAFK
+version: 1
+commands: 
+  afk:
+    description: Declares you as AFK!
